@@ -1,4 +1,4 @@
-# tooth_score_digitisation
+# Tooth Score Digitisation Tools
 Code for the digitisation of tooth score cross-sections using fixed landmarks and semi-landmarks
     
 -----------------------------------------------------------------------------------------------------------------

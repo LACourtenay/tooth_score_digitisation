@@ -25,7 +25,7 @@ Universidad de Salamanca [USAL]
 ---------------------------------------------------------------------------------------------------
 
 This code was designed and prepared for the study by:
-<b> Arriaza, M.C.; Aramendi, J.; Courtenay, L.A.; Maté-González, M.Á.; Herranz-Rodrigo, D.; González-AGuilera, D.; Yravedra, J. (Submitted)
+<b> Arriaza, M.C.; Aramendi, J.; Courtenay, L.A.; Maté-González, M.Á.; Herranz-Rodrigo, D.; González-AGuilera, D.; Yravedra, J. (2023)
 An evaluation of landmark-based methods to explore tooth score morphology: a case study on felids and hyenids. Submitted to
 Applied Sciences </b>
 
@@ -55,7 +55,7 @@ Comments, questions, doubts, suggestions and corrections can all be directed to 
 This project is licensed under the GNU Affero General Public License v3.0.
 See the LICENSE file for details.
 
-<b> Copyright (C) 2025 Lloyd Courtenay </b>
+<b> Copyright (C) 2023 Lloyd Courtenay </b>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published

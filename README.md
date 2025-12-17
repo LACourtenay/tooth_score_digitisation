@@ -46,3 +46,18 @@ example_digitise_score_profile.R file.
 ---------------------------------------------------------------------------------------------------
 
 Comments, questions, doubts, suggestions and corrections can all be directed to L. A. Courtenay at the email provided above.
+
+
+---------------------------------------------------------------------------------------------------
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0.
+See the LICENSE file for details.
+
+<b> Copyright (C) 2025 Lloyd Courtenay </b>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, version 3.
+
